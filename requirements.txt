@@ -1,5 +1,4 @@
 altair
 pandas 
- 
 sqlite3
 streamlit==1.5.1
