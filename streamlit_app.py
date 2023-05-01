@@ -1,4 +1,4 @@
-from collections import namedtuple
+
 import altair as alt
 import math
 import sqlite3
